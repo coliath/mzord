@@ -1,7 +1,7 @@
 {
   "name": "component-library",
   "version": "0.1.0",
-  "homepage": "https://davekeller.github.io/mzord",
+  "homepage": "https://coliath.github.io/mzord",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
